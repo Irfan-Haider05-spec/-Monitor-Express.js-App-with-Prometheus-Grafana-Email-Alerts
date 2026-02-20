@@ -1,4 +1,4 @@
-#🚀 Monitor Express.js App with Prometheus + Grafana & Email Alerts
+Monitor Express.js App with Prometheus + Grafana & Email Alerts
 
 A simple and beginner-friendly guide to monitor your **Express.js application** with **Prometheus** and **Grafana**, and receive **real-time email alerts** when requests come in.
 
